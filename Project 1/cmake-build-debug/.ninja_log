@@ -1,0 +1,27 @@
+# ninja log v5
+0	7	0	CMakeFiles/clean.additional	bf4f4d9fe838da99
+659	1224	1640344515272711384	script_test	60278e0ac929f719
+4	5368	1640276451336961391	CMakeFiles/color_test.dir/test/color_test.cpp.o	45cbd77a4d5feb1d
+4	5232	1640276451200960818	CMakeFiles/image_test.dir/test/image_test.cpp.o	980d0fc8b77771a5
+6649	6883	1640276452852967777	image_dump	df4d36598520abe1
+16840	16847	1640276462817009566	lib/libgtest_maind.a	cc1d912daee3ade4
+6648	6893	1640276452864967829	run_script	fb34beb720215bd2
+6648	6879	1640276452848967761	image_diff	bd0ab3c4b076572b
+4283	6503	1640276452472966177	external/gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	ba69352ecf1ffb87
+3625	16742	1640276462701009081	external/gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	21957e34b6b020fc
+2	4021	1640302052289672484	CMakeFiles/script_test.dir/test/script_test.cpp.o	1f912e7d0a0e9d1e
+2816	4282	1640276450244956786	CMakeFiles/image_dump.dir/programs/image_dump.cpp.o	e2fd0929a0dfbcd1
+5	1688	1640276447656945859	CMakeFiles/run_script.dir/programs/run_script.cpp.o	48fe1de6cee9d302
+22	935	1640311708187202487	CMakeFiles/rgb.dir/rgb/script.cpp.o	132e67cb97e668f0
+7	14	0	clean	ddcd113c6ba82d60
+626	659	1640344514712704944	librgb.a	79813f783f94127f
+16743	16840	1640276462805009515	lib/libgtestd.a	80e9c307475a94ac
+16847	17214	1640276463181011086	image_test	730ce3314800c69c
+3	1352	1640302049617707241	CMakeFiles/rgb.dir/rgb/color.cpp.o	46918d6ab2907352
+15	626	1640344514680704576	CMakeFiles/rgb.dir/rgb/image.cpp.o	fa1e094d7228e20a
+16847	17310	1640276463277011487	color_test	86f0a85a2196120a
+1688	3624	1640276449592954035	CMakeFiles/image_diff.dir/programs/image_diff.cpp.o	85d8f207d37fb2b5
+1386	6620	1640276452588966666	CMakeFiles/rgb.dir/png/png.cpp.o	e95d281dd7abcd7e
+12	713	1640344786075934336	CMakeFiles/rgb.dir/rgb/image.cpp.o	fa1e094d7228e20a
+713	745	1640344786107934724	librgb.a	79813f783f94127f
+745	1238	1640344786595940629	script_test	60278e0ac929f719

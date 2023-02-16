@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/mrnofaceguy/Documents/GitHub/projeto_programacao/data"' CMakeFiles/image_diff.dir/programs/image_diff.cpp.o -o image_diff  librgb.a 

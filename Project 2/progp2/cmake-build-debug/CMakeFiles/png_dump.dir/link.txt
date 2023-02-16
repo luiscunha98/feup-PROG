@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/luisfpc/CLionProjects/projeto_2/progp2/data"' -g CMakeFiles/png_dump.dir/programs/png_dump.cpp.o -o png_dump  libsvg.a libtinyxml2.a 

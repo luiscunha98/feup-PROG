@@ -1,0 +1,237 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				{
+					"build" : "external/gtest",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external.gtest-Debug-fb71a73ff8b98e587f66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "external/gtest"
+				},
+				{
+					"build" : "external/gtest/googletest",
+					"jsonFile" : "directory-external.gtest.googletest-Debug-f1df8b2ee3bd67246c07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "external/gtest/googletest",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "progp2",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "convert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convert-Debug-b8885f25b752f134a656.json",
+					"name" : "convert",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@b6daf43c893e1843d14a",
+					"jsonFile" : "target-gtest-Debug-d558292655a103f6cf53.json",
+					"name" : "gtest",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@b6daf43c893e1843d14a",
+					"jsonFile" : "target-gtest_main-Debug-44aec9ead1189bfd51b3.json",
+					"name" : "gtest_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "png_diff::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png_diff-Debug-94500b8b6080bd956cf5.json",
+					"name" : "png_diff",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "png_dump::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-png_dump-Debug-7653a320c30706c0f28e.json",
+					"name" : "png_dump",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "svg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-svg-Debug-c2ae3c008487a9f32814.json",
+					"name" : "svg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ellipse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ellipse-Debug-005d8b2e79f8e0521676.json",
+					"name" : "test_ellipse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_group::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_group-Debug-f7baeffadd85f970cf1a.json",
+					"name" : "test_group",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_polygon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_polygon-Debug-1c6f6a2d05445046aee0.json",
+					"name" : "test_polygon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_polyline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_polyline-Debug-bc1163a796a285ce8ee4.json",
+					"name" : "test_polyline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_transform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_transform-Debug-14f942af73ecd1710ce4.json",
+					"name" : "test_transform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_use::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_use-Debug-f2e6b8fdc59cc27ce6d4.json",
+					"name" : "test_use",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tinyxml2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tinyxml2-Debug-f4b059d1c2380e18c79e.json",
+					"name" : "tinyxml2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xmltest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xmltest-Debug-9a6b21205e10aa250cb5.json",
+					"name" : "xmltest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/luisfpc/CLionProjects/projeto_2/progp2/cmake-build-debug",
+		"source" : "/home/luisfpc/CLionProjects/projeto_2/progp2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
